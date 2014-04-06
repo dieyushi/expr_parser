@@ -20,7 +20,7 @@ This program's output is
 expr_parser supports below four Operators and `(`,`)`
 
 Operator|Description
-:-|:-
+---|---
 A && B|A AND B
 A \|\ B||A OR B
 A == B| string A equals to string B
