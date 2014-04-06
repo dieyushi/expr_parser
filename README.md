@@ -22,7 +22,7 @@ expr_parser supports below four Operators and `(`,`)`
 Operator|Description
 ---|---
 A && B|A AND B
-A \|\ B||A OR B
+A &#124;&#124; B|A OR B
 A == B| string A equals to string B
 A ^^ B| string A contains string B
 
